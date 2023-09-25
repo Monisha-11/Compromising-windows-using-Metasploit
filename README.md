@@ -2,7 +2,7 @@
 
 ## AIM:
 
-To Compromise windows using Metasploit .
+To Compromise windows using Metasploit 
 
 ## DESIGN STEPS:
 
